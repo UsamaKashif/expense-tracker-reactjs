@@ -8,6 +8,7 @@ import TransactionList from './components/TransactionList';
 
 import {GlobalProvider} from "./context/GlobalState"
 
+
 function App() {
   return (
     <GlobalProvider >
@@ -23,3 +24,4 @@ function App() {
 }
 
 export default App;
+
